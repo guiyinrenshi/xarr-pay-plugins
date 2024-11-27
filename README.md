@@ -15,3 +15,9 @@
 使用Lua语言进行开发
 
 按照epay插件格式撸就行
+
+## 广告
+
+繁花云：https://fhyun.vip/
+
+繁花二级域名：https://egym.fhyun.vip/#/
