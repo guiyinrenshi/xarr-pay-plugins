@@ -6,7 +6,7 @@
 
 
 ## 使用方式
-应用源: [`https://raw.githubusercontent.com/xiaoyi510/xarr-pay-merchant/refs/heads/master/package.json`](https://raw.githubusercontent.com/xiaoyi510/xarr-pay-merchant/refs/heads/master/package.json)
+应用源: [`https://raw.githubusercontent.com/guiyinrenshi/xarr-pay-plugins/refs/heads/master/package.json)
 
 注: 国内访问可以使用Github加速器!
 
