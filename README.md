@@ -8,7 +8,7 @@
 ## 使用方式
 应用源: [`https://raw.githubusercontent.com/guiyinrenshi/xarr-pay-plugins/refs/heads/master/package.json]
 
-注: 国内访问可以使用Github加速器!
+国内加速镜像: [`https://raw.gitmirror.com/guiyinrenshi/xarr-pay-plugins/refs/heads/master/package.json]
 
 ## 插件开发
 
